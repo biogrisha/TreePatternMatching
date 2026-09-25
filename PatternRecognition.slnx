@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PatternRecognition/PatternRecognition.vcxproj" Id="91c908f5-92e6-49fd-b242-1ab7ca41a0aa" />
+</Solution>

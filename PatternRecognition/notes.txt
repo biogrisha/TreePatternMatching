@@ -1,0 +1,21 @@
+ax + by + cz = d
+abc = d
+0b-c
+a0-c
+a-b0
+
+ax1 + by1 + cz1 = d
+ax2 + by2 + cz2 = d
+
+x2 - x1
+y2 - y1
+z2 - z1
+
+ax1 + by1 + cz1 = d
+
+ax3 + by3 + cz3 = d
+A = X2 - X1
+
+x + y + z = d
+1   -1  0   0
+1   0   -1  0
