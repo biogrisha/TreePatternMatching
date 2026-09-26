@@ -24,6 +24,7 @@
     <ProjectGuid>{91c908f5-92e6-49fd-b242-1ab7ca41a0aa}</ProjectGuid>
     <RootNamespace>PatternRecognition</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>TreePatternMatching</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,7 +140,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="PatternRecognition.cpp" />
+    <ClCompile Include="TreePatternMatching.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="notes.txt" />
